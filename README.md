@@ -1,0 +1,2 @@
+# uniapp-nativeMsg
+uniapp-nativeMsg
